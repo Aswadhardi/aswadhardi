@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&pause=1000&random=true&width=550&height=60&lines=%F0%9F%91%8B+Hi+there%2C++I'm+Aswad+Hardi" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=40&pause=1000&random=true&width=600&height=80&lines=%F0%9F%91%8B+Hi+there%2C++I'm+Aswad+Hardi" alt="Typing SVG" /></a>
 </div>
 <br>
 
