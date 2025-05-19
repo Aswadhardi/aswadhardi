@@ -72,8 +72,8 @@ Here are some ideas to get you started:
 
 ## 🧾 Resume & Portfolio
 
-- 📄 [View My Dynamic Resume](https://yourwebsite.com/resume.pdf)  
-- 🌐 [Personal Portfolio](https://yourwebsite.com)
+- 📄 [View My Dynamic Resume](https://aswadhardi.github.io/cv)  
+- 🌐 [Personal Portfolio](https://aswadhardi.github.io)
 
 ---
 
