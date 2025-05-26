@@ -29,12 +29,16 @@ Here are some ideas to get you started:
     Welcome to my Github!
   </p>
    <p>
-    I am a computer science graduate student with a BSc in computer engineering.
+    I am an Msc Computer Science student (AI/ML) with a BSc in computer engineering.
   </p>
    <p>
     I am passionate about Data, AI, and Machine Learning.
-  </p>
-</p>
+     I love operational excellence in all my activities. 
+      </p>
+      <p>
+        I love conversation on Business dev, Startups etc.  
+      </p>
+      </p>
 
 ---
 
