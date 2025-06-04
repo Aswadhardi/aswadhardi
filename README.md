@@ -33,11 +33,7 @@ Here are some ideas to get you started:
   </p>
    <p>
     I am passionate about Data, AI, and Machine Learning.
-     I love operational excellence in all my activities. 
-      </p>
-      <p>
-        I love conversation on Business dev, Startups etc.  
-      </p>
+     I love operational excellence.
       </p>
 
 ---
