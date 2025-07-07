@@ -9,9 +9,15 @@
 </p>
 <br>
 
-Welcome to my GitHub!
+Welcome!
 
-I'm an **MSc Computer Science student** specializing in **AI/ML**, with a BSc in Computer Engineering. I'm passionate about **Data, AI, and Machine Learning**, and I strive for operational excellence in my work.
+*I simply challenge limits by asking why, to break barriers, for others to set up path to rise!*
+
+---
+
+I'm an **MSc Computer Science student** specializing in **AI/ML**, with a BSc in Computer Engineering. 
+<br>
+I'm passionate about **Data, AI, and Machine Learning**, and I strive for operational excellence in my work.
 
 ---
 
